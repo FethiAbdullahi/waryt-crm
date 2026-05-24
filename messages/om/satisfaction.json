@@ -1,0 +1,31 @@
+{
+  "satisfaction": {
+    "title": "Sadarkaa keessan filadhaa",
+    "subtitle": "Waryt filachuu keessaniif galatoomaa — muuxannoo {customer} waliin akkam ture?",
+    "prompt": "Maaloo garaa garaa gurguraa har'aa waliin qanqabaa keessan qooduuf urjii tuqaa.",
+    "skip": "Ammaaf darbi",
+    "submit": "Gamaaggama galchi",
+    "saving": "Kuusaa jira…",
+    "toastSaved": "Galatoomaa — gamaaggamni keessan galmaa'e.",
+    "unknownCustomer": "Maamila",
+    "ratingLabel": {
+      "1": "Fooyya'iinsa barbaada",
+      "2": "Giddugaleessa",
+      "3": "Gaarii",
+      "4": "Baay'ee gaarii",
+      "5": "Baay'ee gaarii!"
+    },
+    "avgShort": "{avg} ★",
+    "reviewCount": "Gamaaggama {count}",
+    "noReviewsYet": "Gamaaggamni hin jiru",
+    "myReviewsTitle": "Quufa maamilaa keessanii",
+    "myReviewsDescription": "Sadarkaa maamilaa dhihoo daldala cufamee booda.",
+    "recentEmpty": "Gamaaggamni hin jiru — daldala cufamee booda asitti mul'ata.",
+    "colCustomer": "Maamila",
+    "colRating": "Sadarkaa",
+    "colDate": "Guyyaa",
+    "leaderboardSatisfaction": "Sadarkaa maamilaa",
+    "adminSatisfaction": "Quufa giddu galeessa",
+    "adminReviews": "Gamaaggama"
+  }
+}

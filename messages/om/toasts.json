@@ -1,0 +1,54 @@
+{
+  "toasts": {
+    "pipeline": { "stageWon": "Sadarkaa gara injifannootti fooyyeffame" },
+    "prospect": {
+      "updated": "Akkaawunti fooyyeffame",
+      "created": "Lead uumame",
+      "removed": "Akkaawuntiin pipeline irraa haqame",
+      "removeFailed": "Akkaawuntii kana haquu hin dandeenye",
+      "duplicateBlocked": "Maqaa daldalaa sun duraanuu pipeline irratti jira. miseensota taskforce duplicate dabaluu hin danda'an — maqaa addaa fayyadamuu ykn bulchaa gaafadhaa."
+    },
+    "bulkImport": {
+      "imported": "Sarara {count} seenaa",
+      "noRows": "Sarara odeeffannoo hin argamne",
+      "fixFile": "Rakkoo faayilii fooyyessi ammas yaali",
+      "readyTitle": "Sarara {count} seenaaf qophaa'e",
+      "readyDescription": "Dursee ilaali, booddee mirkaneessi.",
+      "readyWithIssues": "Sarara {issues} hir'ifame ykn mirkaneessaa darbee"
+    },
+    "quickAdd": { "saleAdded": "Gurgurta dabalame", "addFailed": "Gurgurta dabaluu hin dandeenye" },
+    "sales": {
+      "saleLogged": "Gurgurta galmeessame",
+      "updated": "Fooyyeffame",
+      "pickPipelineCustomer": "Maamila pipeline filadhu.",
+      "fixFields": "Dirree ifa ta'an fooyyessi ammas yaali.",
+      "checkForm": "Unka ilaali"
+    },
+    "challenges": {
+      "entrySaved": "Galmeen olkaa'ame",
+      "entryUpdated": "Galmeen fooyyeffame",
+      "entryRemoved": "Galmeen haqame",
+      "markedSolved": "Akka furameetti mallatteeffame",
+      "tallyRefreshed": "Lakkoofsi haaromsame"
+    },
+    "activity": { "logged": "Walitti dhufeen galmeessame" },
+    "insights": { "saved": "Hubannoon olkaa'ame" },
+    "targets": {
+      "saved": "Galma olkaa'ame",
+      "updated": "Galma fooyyeffame",
+      "updatedHistory": "Galma fooyyeffame — jijjiirama seenaa keessatti galmeessame",
+      "removed": "Galma haqame",
+      "created": "Galma uumame"
+    },
+    "alerts": { "reminderCreated": "Yaadachiisa uumame", "synced": "Yaadachiisawwan smart walitti qabamaa" },
+    "settings": { "saved": "Olkaa'ame" },
+    "teams": {
+      "teamCreated": "Gareen uumame",
+      "memberAdded": "Miseensa dabalame",
+      "removedFromTeam": "Garee irraa haqame",
+      "primaryUpdated": "Garee jalqabaa fooyyeffame",
+      "teamDeleted": "Gareen haqame"
+    },
+    "admin": { "roleUpdated": "Gaheen fooyyeffame", "roleUpdateFailed": "Gahee fooyyessuu hin dandeenye" }
+  }
+}

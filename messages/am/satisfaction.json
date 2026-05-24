@@ -1,0 +1,31 @@
+{
+  "satisfaction": {
+    "title": "ደረጃ መስጠትዎን ይምረጡ",
+    "subtitle": "Warytን ስለመረጡ እናመሰግናለን — ከ{customer} ጋር ያለዎት ጥሜት እንዴት ነበር?",
+    "prompt": "ከዛሬው ሻጭ ጋር ያለዎትን ስኬታማነት ለመጋራት እባክዎ ኮከብ ይጫኑ።",
+    "skip": "ለአሁን ይዘሉ",
+    "submit": "ግምገማ አስገባ",
+    "saving": "በመቀመጥ ላይ…",
+    "toastSaved": "አመሰግናለሁ — ግምገማዎ ተመዝግቧል።",
+    "unknownCustomer": "ደንበኛ",
+    "ratingLabel": {
+      "1": "ማሻሻያ ይፈልጋል",
+      "2": "መካከለኛ",
+      "3": "ጥሩ",
+      "4": "በጣም ጥሩ",
+      "5": "አስደናቂ!"
+    },
+    "avgShort": "{avg} ★",
+    "reviewCount": "{count} ግምገማዎች",
+    "noReviewsYet": "ግምገማ የለም",
+    "myReviewsTitle": "የደንበኞችዎ ስኬታማነት",
+    "myReviewsDescription": "ድል ከተዘገ በኋላ ከደንበኞች የተሰጡ የቅርብ ጊዜ ደረጃዎች።",
+    "recentEmpty": "ግምገማ የለም — ድል ከመዝገብ በኋላ ደረጃዎች እዚህ ይታያሉ።",
+    "colCustomer": "ደንበኛ",
+    "colRating": "ደረጃ",
+    "colDate": "ቀን",
+    "leaderboardSatisfaction": "የደንበኛ ደረጃ",
+    "adminSatisfaction": "አማካይ ስኬታማነት",
+    "adminReviews": "ግምገማዎች"
+  }
+}

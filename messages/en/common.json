@@ -1,0 +1,15 @@
+{
+  "common": {
+    "tryAgain": "Try again",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "close": "Close",
+    "loading": "Loading…",
+    "vsLastWeek": "vs last week",
+    "you": "(you)",
+    "sector": "Sector",
+    "sales": "Sales",
+    "or": "or"
+  }
+}

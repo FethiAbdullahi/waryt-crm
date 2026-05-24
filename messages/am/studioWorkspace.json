@@ -1,0 +1,64 @@
+{
+  "studioWorkspace": {
+    "brand": "ዋሪት ስቱዲዮ",
+    "title": "የዋሪት ፈርኒቸር የሽያጭ ቦታ",
+    "subtitleManager": "የሻውሮም እና የመስክ ቡድኖች አንድ ፓይፕላይን ያጋራሉ — አድሚኖች በድርጅት ይመለከታሉ፣ ሪፖች ረድፎቻቸውን ይይዛሉ፤ መዳረሻ RLS ይወስናል።",
+    "subtitleRep": "ለዋሪት ፈርኒቸር የቡድንዎ መስመሮች፣ ተስፋፋዮች፣ አፈጻጸም እና ተከታታይነት በአንድ ቦታ።",
+    "navAria": "የዋሪት ስቱዲዮ ክፍሎች",
+    "overview": {
+      "quarterDealTitle": "የሩብ ዓመት የተዘገ ገቢ",
+      "quarterDealDescription": "የእርስዎ የፓይፕላይን ድሎች እና የዴስክ ሽያጮች በዚህ UTC ሩብ (ETB)፣ ከሩቡ ጋር የሚወራረዱ የግል ግቦች ጋር በ مقارنة.",
+      "quarterTargetOf": "ግብ (ልዩነት)፦ {target}",
+      "quarterNoTargetHint": "ለዚህ ሩብ የሚጋጫ የግል ግብ እስካሁን የለም።",
+      "quarterSetTargetsLink": "ግቦችን በቅንብሮች ያክሉ",
+      "creditAlertsTitle": "የክሬዲት መሰረት እና ማስታወሻዎች",
+      "creditAlertsDescription": "ለከፍያ ቡክ እና ለክፍት ማስታወሻዎች ፈጣን ስነ-ልብ።",
+      "creditBaseLabel": "የተገኘ የክሬዲት መሰረት (ከፍያ)፦",
+      "openRemindersLabel": "ክፍት ማስታወሻዎች፦",
+      "openAlerts": "ማስታወሻዎችን ክፈት",
+      "workspaceAreas": "የስራ ቦታ ክፍሎች"
+    },
+    "tabs": {
+      "overview": {
+        "label": "አጠቃላይ",
+        "description": "የቡድን ፓይፕላይን እድገት እና መግቢያዎች።"
+      },
+      "interactions": {
+        "label": "ግንኙነቶች",
+        "description": "የደንበኛ ጉቅኝት መዝገብ — አድራሻ፣ ግዢ፣ ምርቶች፣ B2B/B2C እና የግብይት መለያዎች።"
+      },
+      "pipeline": {
+        "label": "ፓይፕላይን",
+        "description": "ንግድ እና አድራሻ፣ ደረጃዎች፣ ኢንዱስትሪ እና እንቅስቃሴ።"
+      },
+      "prospects": {
+        "label": "ተስፋፋዮች",
+        "description": "መለያዎች፣ አድራሻ፣ ኢሜይል፣ የሚፈለጉ ባህሪያት እና ችግሮች።"
+      },
+      "performance": {
+        "label": "አፈጻጸም",
+        "description": "የሩብ የተዘገ ገቢ፣ የቀን ግቦች፣ የመለያ አቅጣጫ።"
+      },
+      "insights": {
+        "label": "ግንዛቤዎች",
+        "description": "አቤቱታዎች፣ የባህሪ ጥያቄዎች፣ ድሎች።"
+      },
+      "alerts": {
+        "label": "ማስጠንቀቂያዎች",
+        "description": "ተከታታይነት እና በቡድኖች መካፈል።"
+      },
+      "reporting": {
+        "label": "ሪፖርት",
+        "description": "ክፍፍሎች፣ መልዕክት እና ፓይፕላይን ትንተና።"
+      },
+      "log": {
+        "label": "የሽያጭ ምዝግብ",
+        "description": "ግብዓቶችን ይመዝግቡ እና ግቦችን ያስተካክሉ።"
+      },
+      "field": {
+        "label": "ፈተናዎች",
+        "description": "ከመለያዎች ጋር የገጠመዎትን ይመዝግቡ — ለእርስዎ እና ለአድሚኖች ብቻ።"
+      }
+    }
+  }
+}

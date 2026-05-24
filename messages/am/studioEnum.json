@@ -1,0 +1,32 @@
+{
+  "studioEnum": {
+    "stages": {
+      "new": "አዲስ",
+      "qualified": "የሚያመልክ",
+      "proposal": "ሀሳብ",
+      "negotiation": "ድርድር",
+      "won": "ድል",
+      "lost": "ሽንፈን"
+    },
+    "accountStatus": {
+      "active_prospect": "ንቁ ተስፋፋይ",
+      "paying": "ከፍያለሚ",
+      "non_paying": "ያልከፈለ",
+      "expired": "ጊዜው አልፏል",
+      "churned": "ተለይቷል"
+    },
+    "insightCategories": {
+      "objection": "አቤቱታ",
+      "feature_request": "የባህሪ ጥያቄ",
+      "demo_win": "ዴሞ / መልዕክት ድል",
+      "peer_share": "የቡድን ልምድ (የተጋራ)"
+    },
+    "alertKinds": {
+      "payment_followup": "የክፍያ ተከታታይነት",
+      "renewal": "ማደስ",
+      "credit_expiry": "የክሬዲት መጠን መዝጊያ",
+      "cs_escalation": "የደንበኛ ስኬስ",
+      "custom": "ብጁ"
+    }
+  }
+}

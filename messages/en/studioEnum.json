@@ -1,0 +1,32 @@
+{
+  "studioEnum": {
+    "stages": {
+      "new": "New",
+      "qualified": "Qualified",
+      "proposal": "Proposal",
+      "negotiation": "Negotiation",
+      "won": "Won",
+      "lost": "Lost"
+    },
+    "accountStatus": {
+      "active_prospect": "Active prospect",
+      "paying": "Paying",
+      "non_paying": "Non-paying",
+      "expired": "Expired",
+      "churned": "Churned"
+    },
+    "insightCategories": {
+      "objection": "Objection",
+      "feature_request": "Feature request",
+      "demo_win": "Demo / messaging win",
+      "peer_share": "Peer pattern (shared)"
+    },
+    "alertKinds": {
+      "payment_followup": "Payment follow-up",
+      "renewal": "Renewal",
+      "credit_expiry": "Credit expiration",
+      "cs_escalation": "Customer success",
+      "custom": "Custom"
+    }
+  }
+}

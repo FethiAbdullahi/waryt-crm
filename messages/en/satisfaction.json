@@ -1,0 +1,31 @@
+{
+  "satisfaction": {
+    "title": "Rate your satisfaction",
+    "subtitle": "Thank you for choosing Waryt — how was your experience with {customer}?",
+    "prompt": "Please tap a star to share how satisfied you were with your salesperson today.",
+    "skip": "Skip for now",
+    "submit": "Submit review",
+    "saving": "Saving…",
+    "toastSaved": "Thank you — your review has been recorded.",
+    "unknownCustomer": "Customer",
+    "ratingLabel": {
+      "1": "Needs improvement",
+      "2": "Fair",
+      "3": "Good",
+      "4": "Very good",
+      "5": "Excellent!"
+    },
+    "avgShort": "{avg} ★",
+    "reviewCount": "{count} reviews",
+    "noReviewsYet": "No reviews yet",
+    "myReviewsTitle": "Your customer satisfaction",
+    "myReviewsDescription": "Recent ratings from customers after closed deals.",
+    "recentEmpty": "No customer reviews yet — ratings appear here after you close a deal.",
+    "colCustomer": "Customer",
+    "colRating": "Rating",
+    "colDate": "Date",
+    "leaderboardSatisfaction": "Customer rating",
+    "adminSatisfaction": "Avg. satisfaction",
+    "adminReviews": "Reviews"
+  }
+}

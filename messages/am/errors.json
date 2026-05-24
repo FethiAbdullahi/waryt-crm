@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "somethingWrong": "የሆነ ስህተት ተፈጥሯል",
+    "noReportsAccess": "ሪፖርቶችን ለማየት ፍቃድ የለዎትም።",
+    "genericAuth": "መግባት አልተሳካም። እንደገና ይሞክሩ።",
+    "forbiddenGoogle": "ይህ የጉግል መለያ ለመግባት አልተፈቀደም።",
+    "forbiddenGoogleDescription": "የተፀድቀ ኢሜይል ይጠቀሙ ወይም አስተዳዳርዎን ያግኙ።"
+  }
+}

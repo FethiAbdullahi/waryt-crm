@@ -1,0 +1,32 @@
+{
+  "teamsPage": {
+    "title": "Gareewwan & baay'ina",
+    "description": "Garee showroom ykn dirqama uumaa, rep dabalaa, fi garee jalqabaa murteessi akka safuu piipilaayinii fi gurgurta Quick Add sirree ta'an.",
+    "newTeam": "Garee haaraa",
+    "loading": "Fe'aa jira…",
+    "members": "Miseensota: {count}",
+    "noMembers": "Amma ammoo miseensa hin jiru.",
+    "addMember": "Miseensa dabaluu",
+    "setPrimary": "Jalqabaa taasisi",
+    "primaryBadge": "jalqabaa",
+    "remove": "Haqi",
+    "removeConfirm": "{name} garee {team} irraa haquu? Booda ammas dabalamuu danda'u.",
+    "createTeamTitle": "Garee uumi",
+    "teamNameLabel": "Maqaa garee",
+    "teamNamePlaceholder": "Fakkeenya Showroom bahaa",
+    "creating": "Uumaa jira…",
+    "create": "Uumi",
+    "addMemberTitle": "Miseensa dabaluu",
+    "personLabel": "Nama",
+    "chooseSomeone": "Nama tokko filadhu",
+    "roleOnTeam": "Gahee garee irratti",
+    "roleManager": "Bulchaa",
+    "roleAgent": "Agent",
+    "rolePlaceholder": "Gahee",
+    "saving": "Olkaa'aa jira…",
+    "add": "Dabaluu",
+    "removeFailed": "Miseensa haquu hin dandeenye.",
+    "deleteTeam": "Garee haquu",
+    "deleteTeamConfirm": "Garee \"{name}\" guutuu ni haqa? Miseensonni garee kana irraa haquu; galmeen gurgurtaa garee kana irratti team_id ni qufa. Kun deebi'uu hin danda'amu."
+  }
+}

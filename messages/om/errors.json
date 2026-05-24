@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "somethingWrong": "Dogoggorri uumame",
+    "noReportsAccess": "Gabaasa ilaaluu hin dandeessan.",
+    "genericAuth": "Seeniin hin milkoofne. Ammas yaali.",
+    "forbiddenGoogle": "Akkaawuntiin Google kanaan seeniin hin hayyamamne.",
+    "forbiddenGoogleDescription": "Imeelii hayyamame fayyadami ykn bulchaa keessan qunnamaa."
+  }
+}

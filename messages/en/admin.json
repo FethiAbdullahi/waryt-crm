@@ -1,0 +1,94 @@
+{
+  "admin": {
+    "badge": "Organization control",
+    "title": "Admin mission control",
+    "subtitleSuper": "You carry super-admin keys — steer the workspace, keep roles honest, and watch revenue move in real time.",
+    "subtitleOrg": "You carry org-wide visibility — jump into the command console, pipeline, and reports without hunting through menus.",
+    "signedInPrefix": "Signed in as",
+    "openCommandConsole": "Open command console",
+    "browsePipeline": "Browse pipeline",
+    "orgSalesDesk": "Org sales desk",
+    "liveSnapshot": "Live snapshot",
+    "shortcuts": "Shortcuts",
+    "snapshotError": "Could not load snapshot — check Supabase and migrations, then reload.",
+    "snapshotPeople": "People",
+    "snapshotPeopleHint": "Profiles",
+    "snapshotChallenges": "Active challenges",
+    "snapshotChallengesHint": "Entries in flight",
+    "snapshotPipeline": "Pipeline rows",
+    "snapshotPipelineHint": "Studio prospects",
+    "snapshotSales": "Team sales (org)",
+    "snapshotSalesHint": "All-time total · {total7d} last 7d · {entriesAll} entries ({entries7d} in 7d)",
+    "go": "Go",
+    "openArrow": "Open →",
+    "proTip": "Pro tip",
+    "supportBlurb": "Targets and roles stay in Settings → Command — your ID for support: {id}…",
+    "openSettings": "Open settings",
+    "links": {
+      "orgSales": {
+        "title": "Organization sales",
+        "desc": "Full table of every logged sale (all teams). Click a business to open the pipeline prospect."
+      },
+      "products": {
+        "title": "Product catalog",
+        "desc": "Furniture SKUs, stock levels, and in-stock flags for the customer interaction log."
+      },
+      "teamPerformance": {
+        "title": "Team performance",
+        "desc": "Org-wide quarter totals and a ranked seller leaderboard — same engine as Waryt Studio."
+      },
+      "commandConsole": {
+        "title": "Command console",
+        "desc": "People, roles, activity feed, and org pulse in one place."
+      },
+      "pipeline": {
+        "title": "Waryt Studio · Pipeline",
+        "desc": "Every lead across the org — owners visible on pipeline for admins."
+      },
+      "reports": {
+        "title": "Reports & analytics",
+        "desc": "Slice revenue by window, industry, and seller."
+      },
+      "challenges": {
+        "title": "Challenges",
+        "desc": "Rep-level selling obstacles and follow-ups inside Waryt Studio."
+      },
+      "dataWorkspace": {
+        "title": "Data workspace",
+        "desc": "Org-wide pipeline reporting and segment mix (Waryt Studio)."
+      },
+      "people": {
+        "title": "People",
+        "desc": "Roster and links into each teammate’s snapshot."
+      }
+    },
+    "products": {
+      "title": "Product catalog",
+      "subtitle": "Furniture SKUs for the customer interaction log — stock quantity and in-stock flag support showroom availability questions.",
+      "addTitle": "Add product",
+      "name": "Name",
+      "category": "Category",
+      "stockQuantity": "Stock quantity",
+      "inStock": "In stock",
+      "activeInCatalog": "Active in catalog",
+      "saving": "Saving…",
+      "addProduct": "Add product",
+      "toastAdded": "Product added",
+      "catalogTitle": "Catalog",
+      "catalogDescription": "Update stock from the showroom floor.",
+      "loading": "Loading…",
+      "qty": "Qty",
+      "active": "Active",
+      "categories": {
+        "livingRoom": "Living room",
+        "bedroom": "Bedroom",
+        "dining": "Dining",
+        "office": "Office",
+        "outdoor": "Outdoor",
+        "storage": "Storage",
+        "decor": "Decor",
+        "other": "Other"
+      }
+    }
+  }
+}

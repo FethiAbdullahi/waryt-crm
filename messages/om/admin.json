@@ -1,0 +1,94 @@
+{
+  "admin": {
+    "badge": "To'annoo dhaabbata",
+    "title": "To'annoo bulchiinsaa",
+    "subtitleSuper": "Furtuu bulchiinsaa ol'aanaa qabdaa — bakka bulchi, akka gahee amanamummaan taa'u, fi gurgurtaan yeroo dhiyoo akka deemaa jiru ilaali.",
+    "subtitleOrg": "Mul'ata dhaabbata hunda qabdaa — konsolaa ajajaa, piipilaayinii, fi gabaasa barbaachisaa malee barbaadaa malee.",
+    "signedInPrefix": "Akka",
+    "openCommandConsole": "Konsolaa ajajaa bani",
+    "browsePipeline": "Piipilaayinii ilaali",
+    "orgSalesDesk": "Deeska gurgurtaa dhaabbata",
+    "liveSnapshot": "Mul'ata yeroo ammaa",
+    "shortcuts": "Gabaabsa",
+    "snapshotError": "Mul'ata fe'uu hin dandeenye — Supabase fi fe'umsa ilaali, booda irra deebi'i fe'i.",
+    "snapshotPeople": "Namoota",
+    "snapshotPeopleHint": "Ibsa namaa",
+    "snapshotChallenges": "Rakkoo hojii",
+    "snapshotChallengesHint": "Galtee karaa irratti",
+    "snapshotPipeline": "Safuu piipilaayinii",
+    "snapshotPipelineHint": "Tajaajila Studio",
+    "snapshotSales": "Gurgurtaa garee (dhaabbata)",
+    "snapshotSalesHint": "Waliigala yeroo hunda · {total7d} guyyaa 7 darban · galtee {entriesAll} ({entries7d} guyyaa 7 keessatti)",
+    "go": "Deemi",
+    "openArrow": "Bani →",
+    "proTip": "Gorsa",
+    "supportBlurb": "Galma fi gahee Setting → Ajajaa irratti ni turan — lakkoofsa deeggarsaaf: {id}…",
+    "openSettings": "Setting bani",
+    "links": {
+      "orgSales": {
+        "title": "Gurgurtaa dhaabbata",
+        "desc": "Galmee gurgurtaa hunda (gareewwan hunda). Daldalaa tuquun tajaajila piipilaayinii bani."
+      },
+      "teamPerformance": {
+        "title": "Hojii garee",
+        "desc": "Waliigala qarree dhaabbata fi sadarkaa gurgurtaa — akka Waryt Studio."
+      },
+      "commandConsole": {
+        "title": "Konsolaa ajajaa",
+        "desc": "Namoota, gahee, hordoffi hojii, fi gammaduu dhaabbata bakka tokkootti."
+      },
+      "pipeline": {
+        "title": "Waryt Studio · Piipilaayinii",
+        "desc": "Safuu hunda dhaabbata keessatti — bulchiinsaaf nama qaban piipilaayinii irratti mul'atu."
+      },
+      "reports": {
+        "title": "Gabaasa fi xiinxala",
+        "desc": "Gurgurtaa yeroo, industrii, fi gurgurtaa namaan qooduu."
+      },
+      "challenges": {
+        "title": "Rakkoolee",
+        "desc": "Rakkoolee gurgurtaa fi hordoffii Waryt Studio keessatti."
+      },
+      "dataWorkspace": {
+        "title": "Bakka daataa",
+        "desc": "Gabaasa piipilaayinii dhaabbata fi misaansa kutaa."
+      },
+      "people": {
+        "title": "Namoota",
+        "desc": "Tarree fi geessituu hojjettoota hunda."
+      },
+      "products": {
+        "title": "Kuutaa oomishaa",
+        "desc": "SKU mebelii, kuusaa, fi mallattoo kuusaa galmeewwan qunnamtii maamilaaaf."
+      }
+    },
+    "products": {
+      "title": "Kuutaa oomishaa",
+      "subtitle": "SKU mebelii galmeewwan qunnamtii maamilaaaf — baay’ina kuusaa fi mallattoo kuusaa keessa jiru gaaffii showroom irratti ni gargaara.",
+      "addTitle": "Oomisha dabaluu",
+      "name": "Maqaa",
+      "category": "Gosa",
+      "stockQuantity": "Baay’ina kuusaa",
+      "inStock": "Kuusaa keessa",
+      "activeInCatalog": "Kuutaa keessatti hojii irra",
+      "saving": "Kuusaa jira…",
+      "addProduct": "Oomisha dabaluu",
+      "toastAdded": "Oomishni dabalame",
+      "catalogTitle": "Kuutaa",
+      "catalogDescription": "Kuusaa lafa showroom irraa haaromsi.",
+      "loading": "Fe’aa jira…",
+      "qty": "Baay’ina",
+      "active": "Hojii irra",
+      "categories": {
+        "livingRoom": "Kutaa teessoo",
+        "bedroom": "Kutaa ciisichaa",
+        "dining": "Nyaata nyaachuu",
+        "office": "Waajjira",
+        "outdoor": "Ala",
+        "storage": "Kuusaa",
+        "decor": "Faaya",
+        "other": "Kan biraa"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "teamsPage": {
+    "title": "Teams & coverage",
+    "description": "Create showroom or field teams, add reps, and set a primary team so pipeline leads and Quick Add sales stay organized.",
+    "newTeam": "New team",
+    "loading": "Loading…",
+    "members": "{count} member(s)",
+    "noMembers": "No members yet.",
+    "addMember": "Add member",
+    "setPrimary": "Set primary",
+    "primaryBadge": "primary",
+    "remove": "Remove",
+    "removeConfirm": "Remove {name} from {team}? They can be added again later.",
+    "createTeamTitle": "Create team",
+    "teamNameLabel": "Team name",
+    "teamNamePlaceholder": "e.g. Showroom North",
+    "creating": "Creating…",
+    "create": "Create",
+    "addMemberTitle": "Add member",
+    "personLabel": "Person",
+    "chooseSomeone": "Choose someone",
+    "roleOnTeam": "Role on team",
+    "roleManager": "Manager",
+    "roleAgent": "Agent",
+    "removeFailed": "Could not remove member.",
+    "rolePlaceholder": "Role",
+    "saving": "Saving…",
+    "add": "Add",
+    "deleteTeam": "Delete team",
+    "deleteTeamConfirm": "Permanently delete team “{name}”? Members are removed from this team; sales rows on this team are unlinked (team cleared). This cannot be undone."
+  }
+}

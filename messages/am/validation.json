@@ -1,0 +1,16 @@
+{
+  "validation": {
+    "enterAmount": "መጠን ያስገቡ",
+    "amountPositive": "መጠኑ ከዜሮ የላቀ መሆን አለበት",
+    "pickCustomerOrName": "የፓይፕላይን ደንበኛ ይምረጡ ወይም ስም ያስገቡ",
+    "pickCustomer": "የፓይፕላይን ደንበኛ ይምረጡ",
+    "pickDate": "ቀን ይምረጡ",
+    "businessNameRequired": "የንግድ ስም ያስፈልጋል",
+    "invalidEmail": "የማይሰራ ኢሜይል",
+    "creditNonNegative": "የክሬዲት መሰረት አሉታዊ ሊሆን አይችልም",
+    "amountNonNegative": "መጠን አሉታዊ ሊሆን አይችልም",
+    "activityBody": "ማስታወሻ ወይም ማጠቃለያ ያክሉ",
+    "titleRequired": "ርዕስ ያስፈልጋል",
+    "pickDueDate": "የመጨረሻ ቀን ይምረጡ"
+  }
+}

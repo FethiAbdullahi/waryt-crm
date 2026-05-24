@@ -1,0 +1,71 @@
+{
+  "toasts": {
+    "pipeline": {
+      "stageWon": "Stage updated to Won"
+    },
+    "prospect": {
+      "updated": "Account updated",
+      "created": "Lead created",
+      "removed": "Account removed from pipeline",
+      "removeFailed": "Could not remove this account",
+      "duplicateBlocked": "That company name is already on the pipeline. Taskforce members cannot add a duplicate — use a unique name or ask a manager."
+    },
+    "bulkImport": {
+      "imported": "Imported {count} lead(s)",
+      "noRows": "No data rows found",
+      "fixFile": "Fix file issues and try again",
+      "readyTitle": "Ready to import {count} row(s)",
+      "readyDescription": "Review the preview, then confirm import.",
+      "readyWithIssues": "{issues} row(s) skipped or failed validation"
+    },
+    "quickAdd": {
+      "saleAdded": "Sale added",
+      "addFailed": "Could not add sale"
+    },
+    "sales": {
+      "saleLogged": "Sale logged",
+      "updated": "Updated",
+      "pickPipelineCustomer": "Pick a pipeline customer.",
+      "fixFields": "Fix the highlighted fields, then try again.",
+      "checkForm": "Check the form"
+    },
+    "challenges": {
+      "entrySaved": "Entry saved",
+      "entryUpdated": "Entry updated",
+      "entryRemoved": "Entry removed",
+      "markedSolved": "Marked as solved",
+      "tallyRefreshed": "Tally refreshed"
+    },
+    "activity": {
+      "logged": "Interaction logged"
+    },
+    "insights": {
+      "saved": "Insight saved"
+    },
+    "targets": {
+      "saved": "Target saved",
+      "updated": "Target updated",
+      "updatedHistory": "Target updated — change logged in history",
+      "removed": "Target removed",
+      "created": "Target created"
+    },
+    "alerts": {
+      "reminderCreated": "Reminder created",
+      "synced": "Smart reminders synced"
+    },
+    "settings": {
+      "saved": "Saved"
+    },
+    "teams": {
+      "teamCreated": "Team created",
+      "memberAdded": "Member added",
+      "removedFromTeam": "Removed from team",
+      "primaryUpdated": "Primary team updated",
+      "teamDeleted": "Team deleted"
+    },
+    "admin": {
+      "roleUpdated": "Role updated",
+      "roleUpdateFailed": "Could not update role"
+    }
+  }
+}

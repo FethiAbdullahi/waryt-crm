@@ -1,0 +1,15 @@
+{
+  "common": {
+    "tryAgain": "እንደገና ይሞክሩ",
+    "cancel": "ሰርዝ",
+    "save": "አስቀምጥ",
+    "delete": "ሰርዝ",
+    "close": "ዝጋ",
+    "loading": "በመጫን ላይ…",
+    "vsLastWeek": "ከሳምንቱ በፊት ጋር",
+    "you": "(እርስዎ)",
+    "sector": "ሴክተር",
+    "sales": "ሽያጮች",
+    "or": "ወይም"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "studioWorkspace": {
+    "brand": "Waryt Studio",
+    "title": "Bakki gurgurta meeshaalee Waryt",
+    "subtitleManager": "Gareen shawroomii fi dirqama pipeline tokko qabu — bulchitoonni dhaabbata hunda ilaalu, repis sarara isaanii qabu; RLS banuu murteessa.",
+    "subtitleRep": "Safuu, eegumsa, hojii, fi itti fufiinsa garee keessanii meeshaalee Warytaf bakka tokko.",
+    "navAria": "Kutaawwan Waryt Studio",
+    "overview": {
+      "quarterDealTitle": "Galma mindaaee cufamee ji'a",
+      "quarterDealDescription": "Mo’attoonni piipilaayinii kee fi gurgurtaa deeska qorraa UTC kana (ETB), gamaaggama galma dhuunfaa guyyoota qorraa waliin wal-fudhatu waliin.",
+      "quarterTargetOf": "Galma (walitti makama): {target}",
+      "quarterNoTargetHint": "Ammaaf galma dhuunfaa walitti makama hin jiru.",
+      "quarterSetTargetsLink": "Galma seenaa keessatti dabaluu",
+      "creditAlertsTitle": "Bu'uura kiriidii fi akeekkachiisota",
+      "creditAlertsDescription": "Kallattii gabaabaa bu'uura kaffaltii fi yaadannoo banaa irratti.",
+      "creditBaseLabel": "Bu'uura kiriidii kaffaltii (nama qabdan):",
+      "openRemindersLabel": "Yaadannoo banaa:",
+      "openAlerts": "Akeekkachiisota bani",
+      "workspaceAreas": "Naannoo hojii"
+    },
+    "tabs": {
+      "overview": {
+        "label": "Cuunfaa",
+        "description": "Adeemsa pipeline garee fi bakka seensaa."
+      },
+      "interactions": {
+        "label": "Qunnamtii",
+        "description": "Galmee daawwannaa maamilaa — qunnamtii, bittaa, kuusaa, oomishaalee, B2B/B2C, fi mallattoo suuqaa."
+      },
+      "pipeline": {
+        "label": "Pipeline",
+        "description": "Daldala fi qunnamtii, sadarkaa, industrii, fi hojii."
+      },
+      "prospects": {
+        "label": "Eegumsa",
+        "description": "Akkaawuntii, qunnamtii, imeelii, amaloota barbaadamoo, fi rakkoo."
+      },
+      "performance": {
+        "label": "Hojii",
+        "description": "Galma mindaaee cufamee ji'a, galma guyyaa, fi kallattii akkaawuntii."
+      },
+      "insights": {
+        "label": "Hubannoo",
+        "description": "Didaawwan, gaaffii amalaa, injifannoo."
+      },
+      "alerts": {
+        "label": "Akeekkachiisa",
+        "description": "Itti fufiinsa fi gara gara gareewwanitti."
+      },
+      "reporting": {
+        "label": "Gabaasa",
+        "description": "Gosa, ergaa, fi xiinxala pipeline."
+      },
+      "log": {
+        "label": "Galmee gurgurtaa",
+        "description": "Galmaa fi galma deeskii galmeessi."
+      },
+      "field": {
+        "label": "Challenges",
+        "description": "Waanti akkaawuntii si dhibe galmeessi — keessanii fi bulchaalee qofaaf."
+      }
+    }
+  }
+}

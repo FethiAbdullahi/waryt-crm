@@ -1,0 +1,9 @@
+{
+  "roles": {
+    "superAdmin": "ሱፐር አድሚን",
+    "admin": "አድሚን",
+    "manager": "ማናጅር",
+    "taskforce": "ተግባር ኃይል",
+    "roleLabel": "ሚና"
+  }
+}

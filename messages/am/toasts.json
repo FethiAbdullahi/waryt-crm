@@ -1,0 +1,54 @@
+{
+  "toasts": {
+    "pipeline": { "stageWon": "ደረጃ ወደ ድል ተዘምኗል" },
+    "prospect": {
+      "updated": "መለያ ተዘምኗል",
+      "created": "አዲስ መስመር ተፈጥሯል",
+      "removed": "መለያ ከፓይፕላይን ተወግዷል",
+      "removeFailed": "ይህንን መለያ ማስወገድ አልተቻለም",
+      "duplicateBlocked": "ይህ የኩባንያ ስም አስቀድሞ በፓይፕላይን ላይ አለ። የታስክፎርስ አባላት ተባዚ ማከል አይችሉም — ልዩ ስም ይጠቀሙ ወይም አስተዳዳሪ ይጠይቁ።"
+    },
+    "bulkImport": {
+      "imported": "{count} መስመር(ዎች) ገብተዋል",
+      "noRows": "የውሂብ ረድፍ አልተገኘም",
+      "fixFile": "የፋይል ችግሮችን ያስተካክሉ እና እንደገና ይሞክሩ",
+      "readyTitle": "{count} ረድፍ(ዎች) ለመግባት ዝግጁ",
+      "readyDescription": "ቅድመ እይታውን ይመልከቱ፣ ከዚያ ያረጋግጡ።",
+      "readyWithIssues": "{issues} ረድፍ(ዎች) ተወግደዋል ወይም ማረጋገጫ አልፈዋል"
+    },
+    "quickAdd": { "saleAdded": "ሽያጭ ተጨመረ", "addFailed": "ሽያጭ ማከል አልተቻለም" },
+    "sales": {
+      "saleLogged": "ሽያጭ ተመዝግቧል",
+      "updated": "ተዘምኗል",
+      "pickPipelineCustomer": "የፓይፕላይን ደንበኛ ይምረጡ።",
+      "fixFields": "የተደመደሙ መስኮችን ያስተካክሉ እና እንደገና ይሞክሩ።",
+      "checkForm": "ቅጽውን ይመልከቱ"
+    },
+    "challenges": {
+      "entrySaved": "ግብዓት ተቀምጧል",
+      "entryUpdated": "ግብዓት ተዘምኗል",
+      "entryRemoved": "ግብዓት ተወግዷል",
+      "markedSolved": "እንደተፈታ ተመዝግቧል",
+      "tallyRefreshed": "መቁጠሪያ ታድሷል"
+    },
+    "activity": { "logged": "ግንኙነት ተመዝግቧል" },
+    "insights": { "saved": "ግንዛቤ ተቀምጧል" },
+    "targets": {
+      "saved": "ግብ ተቀምጧል",
+      "updated": "ግብ ተዘምኗል",
+      "updatedHistory": "ግብ ተዘምኗል — ለውጥ በታሪክ ተመዝግቧል",
+      "removed": "ግብ ተወግዷል",
+      "created": "ግብ ተፈጥሯል"
+    },
+    "alerts": { "reminderCreated": "ማስታወሻ ተፈጥሯል", "synced": "ስማርት ማስታወሻዎች ተመሳሰሉ" },
+    "settings": { "saved": "ተቀምጧል" },
+    "teams": {
+      "teamCreated": "ቡድን ተፈጥሯል",
+      "memberAdded": "አባል ተጨመረ",
+      "removedFromTeam": "ከቡድን ተወግዷል",
+      "primaryUpdated": "ዋና ቡድን ተዘምኗል",
+      "teamDeleted": "ቡድን ተሰርዟል"
+    },
+    "admin": { "roleUpdated": "ሚና ተዘምኗል", "roleUpdateFailed": "ሚና ማዘመን አልተቻለም" }
+  }
+}

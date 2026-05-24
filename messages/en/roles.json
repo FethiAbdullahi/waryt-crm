@@ -1,0 +1,9 @@
+{
+  "roles": {
+    "superAdmin": "Super admin",
+    "admin": "Admin",
+    "manager": "Manager",
+    "taskforce": "Taskforce",
+    "roleLabel": "Role"
+  }
+}

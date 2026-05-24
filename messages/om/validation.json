@@ -1,0 +1,16 @@
+{
+  "validation": {
+    "enterAmount": "Madaalli galchi",
+    "amountPositive": "Madaalliin 0 ol ta'uu qaba",
+    "pickCustomerOrName": "Maamila pipeline filadhu ykn maqaa galchi",
+    "pickCustomer": "Maamila pipeline filadhu",
+    "pickDate": "Guyyaa filadhu",
+    "businessNameRequired": "Maqaa daldalaa barbaachisa",
+    "invalidEmail": "Imeelii dogoggoraa",
+    "creditNonNegative": "Bu'ura kiriidii gadi hin ta'u",
+    "amountNonNegative": "Madaalliin gadi hin ta'u",
+    "activityBody": "Yaada ykn cuunfaa dabaluu",
+    "titleRequired": "Mata dursaa barbaachisa",
+    "pickDueDate": "Guyyaa xumuraa filadhu"
+  }
+}

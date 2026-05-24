@@ -1,0 +1,94 @@
+{
+  "admin": {
+    "badge": "የድርጅት ቁጥገር",
+    "title": "የአስተዳዳሪ ቁጥገር ማዕከል",
+    "subtitleSuper": "ከፍተኛ-አስተዳዳሪ ቁልፎች አሉዎት — ቦታውን ይምሩ፣ ሚናዎችን በታማኝነት ይጠብቁ፣ ገቢ በቅጽበት እንደሚንቀሳቀስ ይመልከቱ።",
+    "subtitleOrg": "በድርጅት ደረጃ እይታ አላችሁ — በሜኑ ማሰስ ያለመ ትዕዛዝ፣ ፓይፕላይን እና ሪፖርቶች ይግቡ።",
+    "signedInPrefix": "የገቡት እንደ",
+    "openCommandConsole": "ትዕዛዝ ኮንሶል ክፈት",
+    "browsePipeline": "ፓይፕላይን ይመልከቱ",
+    "orgSalesDesk": "የድርጅት ሽያጭ ዴስክ",
+    "liveSnapshot": "የቅጽበት እይታ",
+    "shortcuts": "አቋራጮች",
+    "snapshotError": "እይታ መጫን አልተሳካም — Supabase እና ማይግሬሽኖችን ይመልከቱ፣ ከዚያ ዳግም ይጫኑ።",
+    "snapshotPeople": "ሰዎች",
+    "snapshotPeopleHint": "መገለጫዎች",
+    "snapshotChallenges": "ንቁ ፈተናዎች",
+    "snapshotChallengesHint": "በመንገድ ላይ ያሉ ግቤዎች",
+    "snapshotPipeline": "የፓይፕላይን ረድፎች",
+    "snapshotPipelineHint": "ስቱዲዮ ተስፋፋዮች",
+    "snapshotSales": "የቡድን ሽያጭ (ድርጅት)",
+    "snapshotSalesHint": "ለዘለዓለም አጠቃላይ · {total7d} ባለፉት 7 ቀናት · {entriesAll} ግቤቶች ({entries7d} በ7 ቀን)",
+    "go": "ሂድ",
+    "openArrow": "ክፈት →",
+    "proTip": "ምክር",
+    "supportBlurb": "ግቦች እና ሚናዎች በቅንብሮች → ትዕዛዝ ይቆያሉ — ለድጋፍ መለያዎ: {id}…",
+    "openSettings": "ቅንብሮች ክፈት",
+    "links": {
+      "orgSales": {
+        "title": "የድርጅት ሽያጮች",
+        "desc": "የተመዘገበው ሁሉም ሽያጭ ሰንጠረዥ (ሁሉም ቡድኖች)። ንግድ ላይ ጠቅ በማድረግ የፓይፕላይን ተስፋፋይ ይክፈቱ።"
+      },
+      "teamPerformance": {
+        "title": "የቡድን አፈጻጸም",
+        "desc": "በድርጅት ደረጃ የሩብ ዓመት አጠቃላዮች እና የተደራጁ ሻጭ ሰሌዳ — እንደ ዋሪት ስቱዲዮ።"
+      },
+      "commandConsole": {
+        "title": "ትዕዛዝ ኮንሶል",
+        "desc": "ሰዎች፣ ሚናዎች፣ የእንቅስቃሴ ፍሰት እና የድርጅት ስምምነት በአንድ ቦታ።"
+      },
+      "pipeline": {
+        "title": "ዋሪት ስቱዲዮ · ፓይፕላይን",
+        "desc": "በድርጅት ውስጥ ሁሉም መስመር — ለአስተዳዳሪዎች በፓይፕላይን ላይ ባለቤቶች ይታያሉ።"
+      },
+      "reports": {
+        "title": "ሪፖርቶች እና ትንተና",
+        "desc": "ገቢን በየቀኑ፣ በኢንዱስትሪ እና በሻጭ ይከፍሉ።"
+      },
+      "challenges": {
+        "title": "ፈተናዎች",
+        "desc": "የሪፖ ደረጃ ሽያጭ መሰናክሎች እና ተከታታይነት በዋሪት ስቱዲዮ።"
+      },
+      "dataWorkspace": {
+        "title": "የውሂብ ቦታ",
+        "desc": "በድርጅት ደረጃ የፓይፕላይን ሪፖርት እና ክፍል መጠን።"
+      },
+      "people": {
+        "title": "ሰዎች",
+        "desc": "ዝርዝር እና ወደ ተባባሪ የሚወስዱ አገናኞች።"
+      },
+      "products": {
+        "title": "የምርት ካታሎግ",
+        "desc": "SKUዎች፣ ክምችት፣ እና በክምችት ውስጥ ለደንበኛ ግንኙነት መዝገብ።"
+      }
+    },
+    "products": {
+      "title": "የምርት ካታሎግ",
+      "subtitle": "ለደንበኛ ግንኙነት መዝገብ የቤት እቃ SKUዎች — የክምችት ብዛትና በክምችት ውስጥ መሆን ለሾውሩም ጥያቄዎች ይረዳሉ።",
+      "addTitle": "ምርት ጨምር",
+      "name": "ስም",
+      "category": "ምድብ",
+      "stockQuantity": "የክምችት ብዛት",
+      "inStock": "በክምችት ውስጥ",
+      "activeInCatalog": "በካታሎግ ውስጥ ንቁ",
+      "saving": "በመቀመጥ ላይ…",
+      "addProduct": "ምርት ጨምር",
+      "toastAdded": "ምርት ታክሏል",
+      "catalogTitle": "ካታሎግ",
+      "catalogDescription": "ከሾውሩም ወለል የክምችትን ያዘምኑ።",
+      "loading": "በመጫን ላይ…",
+      "qty": "ብዛት",
+      "active": "ንቁ",
+      "categories": {
+        "livingRoom": "የመኝታ ክፍል",
+        "bedroom": "መኝታ",
+        "dining": "መመገቢያ",
+        "office": "ቢሮ",
+        "outdoor": "ወደ ውጭ",
+        "storage": "ማከማቻ",
+        "decor": "ጌጣጌጥ",
+        "other": "ሌላ"
+      }
+    }
+  }
+}

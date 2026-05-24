@@ -1,0 +1,183 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /* Typography (variables on <html> via next/font) */
+  --font-sans: var(--font-plus-jakarta), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --font-heading: var(--font-outfit), var(--font-plus-jakarta), ui-sans-serif,
+    sans-serif;
+  /* Waryt brand palette */
+  --color-brand-cerise: var(--brand-cerise);
+  --color-brand-flamingo: var(--brand-flamingo);
+  --color-brand-scorpion: var(--brand-scorpion);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  /* Warm showroom palette — cream, sand, terracotta accent (Waryt furniture) */
+  --brand-cerise: #c45c2e;
+  --brand-flamingo: #e0783a;
+  --brand-scorpion: #4a4038;
+  --brand-accent-red: #c4352e;
+
+  --background: #faf7f2;
+  --foreground: #241c15;
+  --card: #fffefb;
+  --card-foreground: #241c15;
+  --popover: #fffefb;
+  --popover-foreground: #241c15;
+  --primary: #c45c2e;
+  --primary-foreground: #fffaf6;
+  --secondary: #f3ebe2;
+  --secondary-foreground: #2f261d;
+  --muted: #efe6dc;
+  --muted-foreground: #5c5046;
+  --accent: #fde8d4;
+  --accent-foreground: #3d2a1a;
+  --destructive: oklch(0.52 0.2 25);
+  --border: #e8dcd0;
+  --input: #e0d3c4;
+  --ring: #c45c2e;
+  --chart-1: #c45c2e;
+  --chart-2: #2a7a9a;
+  --chart-3: #b8860b;
+  --chart-4: #6b8f71;
+  --chart-5: #8b7355;
+  --radius: 0.8rem;
+  --sidebar: #f4ece3;
+  --sidebar-foreground: #241c15;
+  --sidebar-primary: #c45c2e;
+  --sidebar-primary-foreground: #fffaf6;
+  --sidebar-accent: color-mix(in srgb, #c45c2e 14%, transparent);
+  --sidebar-accent-foreground: #3d2a1a;
+  --sidebar-border: #e5d8cb;
+  --sidebar-ring: #c45c2e;
+}
+
+.dark {
+  --background: #161311;
+  --foreground: #f8f0e6;
+  --card: #1f1b17;
+  --card-foreground: #f8f0e6;
+  --popover: #1f1b17;
+  --popover-foreground: #f8f0e6;
+  --primary: #e8955c;
+  --primary-foreground: #1a120c;
+  --secondary: #2a2420;
+  --secondary-foreground: #f8f0e6;
+  --muted: #2a2420;
+  --muted-foreground: #c9b8a8;
+  --accent: color-mix(in srgb, #e8955c 22%, #1f1b17);
+  --accent-foreground: #f8f0e6;
+  --destructive: oklch(0.62 0.18 25);
+  --border: #3d342c;
+  --input: #3d342c;
+  --ring: #e8955c;
+  --chart-1: #e8955c;
+  --chart-2: #7ec8e3;
+  --chart-3: #d4b56a;
+  --chart-4: #8fbc8f;
+  --chart-5: #c4a882;
+  --sidebar: #1a1612;
+  --sidebar-foreground: #f8f0e6;
+  --sidebar-primary: #e8955c;
+  --sidebar-primary-foreground: #1a120c;
+  --sidebar-accent: color-mix(in srgb, #e8955c 20%, transparent);
+  --sidebar-accent-foreground: #f8f0e6;
+  --sidebar-border: #3d342c;
+  --sidebar-ring: #e8955c;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    background-image:
+      radial-gradient(980px 520px at 10% -6%, color-mix(in srgb, var(--primary) 12%, transparent), transparent 55%),
+      radial-gradient(720px 420px at 98% 4%, color-mix(in srgb, #d4a574 14%, transparent), transparent 50%),
+      linear-gradient(
+        168deg,
+        var(--background) 0%,
+        color-mix(in srgb, var(--accent) 55%, var(--background)) 42%,
+        color-mix(in srgb, var(--muted) 90%, var(--background)) 100%
+      );
+    background-attachment: fixed;
+  }
+  .dark body {
+    background-image:
+      radial-gradient(880px 480px at 12% -8%, color-mix(in srgb, var(--primary) 14%, transparent), transparent 52%),
+      linear-gradient(168deg, var(--background) 0%, #1f1a16 100%);
+    background-attachment: fixed;
+  }
+  html {
+    @apply font-sans;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-heading tracking-tight;
+  }
+}
+
+@layer utilities {
+  /* Subtle elevation — Stripe-like surfaces */
+  .surface-elevated {
+    @apply rounded-2xl border border-border/90 bg-card shadow-sm;
+    box-shadow:
+      0 1px 2px oklch(0 0 0 / 4%),
+      0 0 0 1px oklch(0 0 0 / 2%);
+  }
+  .dark .surface-elevated {
+    box-shadow:
+      0 1px 2px oklch(0 0 0 / 25%),
+      0 0 0 1px oklch(1 0 0 / 6%);
+  }
+  .surface-muted {
+    @apply rounded-2xl border border-border/60 bg-muted/40;
+  }
+}

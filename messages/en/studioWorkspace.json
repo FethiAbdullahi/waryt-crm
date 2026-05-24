@@ -1,0 +1,64 @@
+{
+  "studioWorkspace": {
+    "brand": "Waryt Studio",
+    "title": "Waryt Furniture sales workspace",
+    "subtitleManager": "Showroom and field teams share one pipeline—managers see org-wide accounts while reps own their rows; access follows Supabase RLS.",
+    "subtitleRep": "Your team’s leads, prospects, performance, and follow-ups for Waryt Furniture—all in one workspace.",
+    "navAria": "Waryt Studio sections",
+    "overview": {
+      "quarterDealTitle": "Quarter closed revenue",
+      "quarterDealDescription": "Your pipeline wins plus desk sales this UTC quarter (ETB), compared to any personal targets whose dates overlap the quarter.",
+      "quarterTargetOf": "Target (overlap): {target}",
+      "quarterNoTargetHint": "No overlapping personal target for this quarter yet.",
+      "quarterSetTargetsLink": "Add targets in Settings",
+      "creditAlertsTitle": "Credit base & alerts",
+      "creditAlertsDescription": "Quick pulse on paying book and open reminders.",
+      "creditBaseLabel": "Owned credit base (paying):",
+      "openRemindersLabel": "Open reminders:",
+      "openAlerts": "Open alerts",
+      "workspaceAreas": "Workspace areas"
+    },
+    "tabs": {
+      "overview": {
+        "label": "Overview",
+        "description": "Team pipeline progress and quick entry points."
+      },
+      "interactions": {
+        "label": "Interactions",
+        "description": "Customer visit log — contact, purchase, stock, products, B2B/B2C, and marketing tags."
+      },
+      "pipeline": {
+        "label": "Pipeline",
+        "description": "Leads by business and contact, stages, industries, and activity logs."
+      },
+      "prospects": {
+        "label": "Prospects",
+        "description": "Accounts with contact name, email, features of interest, and pain points."
+      },
+      "performance": {
+        "label": "Performance",
+        "description": "Quarter closed revenue vs. dated targets and account momentum."
+      },
+      "insights": {
+        "label": "Insights",
+        "description": "Objections, feature requests, winning plays, and team patterns."
+      },
+      "alerts": {
+        "label": "Alerts",
+        "description": "Follow-ups and handoffs so showroom and field teams stay aligned."
+      },
+      "reporting": {
+        "label": "Reporting",
+        "description": "Segments, messaging feedback, and pipeline analytics."
+      },
+      "log": {
+        "label": "Sales log",
+        "description": "Log transactions and desk targets (existing CRM tools)."
+      },
+      "field": {
+        "label": "Challenges",
+        "description": "Log what blocked you with accounts—missed callbacks, gatekeepers, noisy threads—kept private to you and org admins."
+      }
+    }
+  }
+}

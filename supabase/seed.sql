@@ -1,0 +1,15 @@
+-- Optional seed helpers (run in Supabase SQL editor after you have real auth users)
+--
+-- 1) Apply migrations in `supabase/migrations/`.
+-- 2) Sign up your first user in the app.
+-- 3) Promote them to admin:
+--    update public.profiles set role = 'admin' where id = '<USER_UUID>';
+-- 4) Add them to a team + mark primary:
+--    insert into public.team_members (team_id, user_id, member_role, is_primary)
+--    values ('11111111-1111-1111-1111-111111111101', '<USER_UUID>', 'manager', true)
+--    on conflict do nothing;
+--
+-- Demo sales (optional): replace <USER_UUID> and ensure team/product IDs exist.
+-- insert into public.sales_entries (team_id, user_id, product_id, amount, sale_date)
+-- values
+--   ('11111111-1111-1111-1111-111111111101', '<USER_UUID>', '22222222-2222-2222-2222-222222222201', 2500, current_date);

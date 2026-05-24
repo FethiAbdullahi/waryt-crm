@@ -1,0 +1,32 @@
+{
+  "teamsPage": {
+    "title": "ቡድኖች እና ሽፋን",
+    "description": "የሻውሮም ወይም የመስክ ቡድኖችን ይፍጠሩ፣ ሪፖችን ይጨምሩ እና ዋና ቡድን ያዘጋጁ እንዲሁም የፓይፕላይን መስመሮች እና ፈጣን ሽያጮች ደረጃቸውን ይጠብቃሉ።",
+    "newTeam": "አዲስ ቡድን",
+    "loading": "በመጫን ላይ…",
+    "members": "አባላት፦ {count}",
+    "noMembers": "እስካሁን አባል የለም።",
+    "addMember": "አባል ጨምር",
+    "setPrimary": "ዋና አድርግ",
+    "primaryBadge": "ዋና",
+    "remove": "አስወግድ",
+    "removeConfirm": "{name} ከ{team} ይወገዱ? በኋላ እንደገና ሊጨመሩ ይችላሉ።",
+    "createTeamTitle": "ቡድን ፍጠር",
+    "teamNameLabel": "የቡድን ስም",
+    "teamNamePlaceholder": "ለምሳሌ ሾውሮም ሰሜን",
+    "creating": "በመፍጠር ላይ…",
+    "create": "ፍጠር",
+    "addMemberTitle": "አባል ጨምር",
+    "personLabel": "ሰው",
+    "chooseSomeone": "ሰው ይምረጡ",
+    "roleOnTeam": "በቡድን ላይ ሚና",
+    "roleManager": "አስተዳዳሪ",
+    "roleAgent": "አጀንት",
+    "rolePlaceholder": "ሚና",
+    "saving": "በመቀመጥ ላይ…",
+    "add": "ጨምር",
+    "removeFailed": "አባል ማስወገድ አልተቻለም።",
+    "deleteTeam": "ቡድን ሰርዝ",
+    "deleteTeamConfirm": "«{name}» ቡድን ለዘለዓለም ይሰረዝ? አባላት ከዚህ ቡድን ይወገዳሉ፤ በዚህ ቡድን ላይ ያሉ ሽያጮች ከቡድን ይለያሉ። ይህን ማድረግ አይቀለበስም።"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "onboarding": {
+    "helpTitle": "Gargaarsa fi gorsa",
+    "quickTip": "Gorsa dafaa",
+    "gotIt": "Argadheera",
+    "hints": {
+      "home": {
+        "title": "Mana keessan",
+        "body": "Mana yeroo gabaabaa waliin galma, sarara, fi geessitu agarsiisa. Waryt Studio gama saagiisaa irraa pipeline fi Challenges, Reports immoo gahee keessan yoo dabalate bani."
+      },
+      "salesStudioOverview": {
+        "title": "Waryt Studio",
+        "body": "Bakka kun pipeline, eegumsa, hojiiwwan, fi itti fufiinsaaf. Taba ol aanaa fayyadamuu; Cuunfaa akkaataa gabaabaa agarsiisa. Qabduu diimaa gurgurta yeroo kamitti galmeessuu danda'a."
+      },
+      "challenges": {
+        "title": "Challenges",
+        "body": "Har'a si dhibe galmeessi—bilbilaa hin deebine, qooddannoo dogoggoraa, gurgurtaan yeroo dheeraa fudhachuu. Galmeen keessanii fi bulchaalee dhaabbataaf qofa ni dhokata."
+      },
+      "reports": {
+        "title": "Gabaasa fi xiinxala",
+        "body": "Yeroo filadhu filachuun yeroo kana kan duraa waliin madaali. Chaartoonni gurgurta Supabase keessatti hayyamamtan agarsiisu."
+      }
+    },
+    "help": {
+      "nav": {
+        "title": "Gama saagiisa fi Mana",
+        "body": "Mana fi Reports giddugala keessa jiru; Waryt Studio bakka hojii keessan bana (Challenges dabalate). Desktop irratti gama saagiisa dhoksuu dandeessa."
+      },
+      "warytStudio": {
+        "title": "Waryt Studio",
+        "body": "Pipeline, Eegumsa, Hojii, Hubannoo, Akeekkachiisa, Gabaasa, Galmee gurgurtaa, fi Challenges taba addaa qabu. Yeroo naannoo barbaaddan Cuunfaa irraa jalqabi."
+      },
+      "quickAdd": {
+        "title": "Gurgurta dafan",
+        "body": "Qabduun gurgurta dafan galmeessi. Filannoo industrii darbee kee kabaja."
+      },
+      "search": {
+        "title": "Barbaadi",
+        "body": "Barbaadi ykn Ctrl/Cmd+K fayyadamuun nama, garee, ykn gurgurta galmeessite baha."
+      },
+      "theme": {
+        "title": "Mata dursaa fi qindaa'ina",
+        "body": "Beeksisa biraatti ifaa ykn dukkanaa jijjiiri. Qindaa'inni profaayilii kee ni qaba."
+      }
+    },
+    "helpToolkit": {
+      "triggerAria": "Gargaarsa fi gorsa",
+      "title": "Waryt CRM fayyadamuu",
+      "intro": "Qajeelfama gabaabaa—yeroo kamitti bani. Gorsiwwan fuula guddaa irratti \"Argadheera\" jalqabsiisuu danda'u.",
+      "resetTips": "Gorsa deebisi",
+      "resetHint": "Kaardiiwwan dhiifaman deebisa; gorsiwwan Mana, Studio, Challenges, fi Reports irratti ammas ni mul'atu."
+    }
+  }
+}

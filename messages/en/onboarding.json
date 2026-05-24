@@ -1,0 +1,54 @@
+{
+  "onboarding": {
+    "helpTitle": "Help & tips",
+    "quickTip": "Quick tip",
+    "gotIt": "Got it",
+    "hints": {
+      "home": {
+        "title": "Your hub",
+        "body": "Home is your performance snapshot—targets, streaks, and quick links. Open Waryt Studio from the sidebar for pipeline and Challenges, and Reports if your role includes analytics."
+      },
+      "salesStudioOverview": {
+        "title": "Waryt Studio",
+        "body": "This workspace is for pipeline, prospects, performance, and follow-ups. Use the tabs above to move between areas; Overview stays your at-a-glance map. The yellow Quick Add button logs a sale from anywhere."
+      },
+      "challenges": {
+        "title": "Challenges",
+        "body": "Log what blocked you today—ghosted calls, wrong stakeholders, procurement drag. Entries stay private to you and org admins; use dates to pace follow-ups and mark items solved when they clear."
+      },
+      "reports": {
+        "title": "Reports & analytics",
+        "body": "Pick a time window to compare this period with the prior one. Charts and tables reflect sales you are allowed to read in Supabase—if something fails to load, try a shorter range or ask an admin."
+      }
+    },
+    "help": {
+      "nav": {
+        "title": "Sidebar & Home",
+        "body": "Home and Reports live in the hub; Waryt Studio opens your rep workspace (including Challenges). On desktop you can hide the sidebar to focus—your logo link still takes you Home. On mobile, open the menu (top left) for the same links."
+      },
+      "warytStudio": {
+        "title": "Waryt Studio",
+        "body": "Pipeline, Prospects, Performance, Insights, Alerts, Reporting, Sales log, and Challenges each have a dedicated tab. Start from Overview when you need orientation, then dive into the tab that matches your next task."
+      },
+      "quickAdd": {
+        "title": "Quick Add Sale",
+        "body": "The floating action button logs a sale quickly with the fields you use most. It respects your last industry choice to save a tap—adjust anytime in the dialog."
+      },
+      "search": {
+        "title": "Search",
+        "body": "Use Search (or Ctrl / Cmd + K on larger screens) to jump to people, teams, or a logged sale. Results open the right screen in one click."
+      },
+      "theme": {
+        "title": "Theme & settings",
+        "body": "Toggle light or dark mode next to notifications. Settings holds your profile and preferences; only admins see org-wide tools like Command or Teams management."
+      }
+    },
+    "helpToolkit": {
+      "triggerAria": "Help and tips",
+      "title": "Using Waryt CRM",
+      "intro": "Short guide—open anytime. Contextual tips on each main page can be dismissed with \"Got it\".",
+      "resetTips": "Reset tips",
+      "resetHint": "Resets dismissed cards so quick tips can show again on Home, Studio, Challenges, and Reports."
+    }
+  }
+}

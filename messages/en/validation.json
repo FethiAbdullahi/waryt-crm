@@ -1,0 +1,16 @@
+{
+  "validation": {
+    "enterAmount": "Enter an amount",
+    "amountPositive": "Amount must be greater than 0",
+    "pickCustomerOrName": "Pick a pipeline customer or enter a customer name",
+    "pickCustomer": "Pick a pipeline customer",
+    "pickDate": "Pick a date",
+    "businessNameRequired": "Business name is required",
+    "invalidEmail": "Invalid email",
+    "creditNonNegative": "Credit base cannot be negative",
+    "amountNonNegative": "Amount cannot be negative",
+    "activityBody": "Add a note or summary",
+    "titleRequired": "Title is required",
+    "pickDueDate": "Pick a due date"
+  }
+}

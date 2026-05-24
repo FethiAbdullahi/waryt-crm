@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "somethingWrong": "Something went wrong",
+    "noReportsAccess": "You do not have access to reports.",
+    "genericAuth": "Sign-in could not be completed. Try again.",
+    "forbiddenGoogle": "This Google account is not allowed to sign in.",
+    "forbiddenGoogleDescription": "Use an approved email or ask your administrator."
+  }
+}

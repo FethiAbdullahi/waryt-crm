@@ -1,0 +1,32 @@
+{
+  "studioEnum": {
+    "stages": {
+      "new": "Haaraa",
+      "qualified": "Madaalawwan qaban",
+      "proposal": "Kakayyaa",
+      "negotiation": "Waliigaltee",
+      "won": "Injifannoo",
+      "lost": "Kufaatii"
+    },
+    "accountStatus": {
+      "active_prospect": "Eegumsa hojii qabu",
+      "paying": "Kaffaltiisaa",
+      "non_paying": "Hin kaffalamne",
+      "expired": "Yeroo xumurame",
+      "churned": "Addaan cite"
+    },
+    "insightCategories": {
+      "objection": "Didaa",
+      "feature_request": "Gaafii amalaa",
+      "demo_win": "Demo / ergaa injifannoo",
+      "peer_share": "Muuxannoo garee (walitti fufame)"
+    },
+    "alertKinds": {
+      "payment_followup": "Itsi fufiinsa kaffaltii",
+      "renewal": "Haaromsa",
+      "credit_expiry": "Yeroo xumuraa kiriidii",
+      "cs_escalation": "Milkaa'ina maamila",
+      "custom": "Addaa"
+    }
+  }
+}
